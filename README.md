@@ -18,6 +18,6 @@ Mailintelx is a powerful, offline-first email reconnaissance tool designed for p
 ```bash
 pip install -r requirements.txt
 ## 👨‍🎓 Author
-
+```
 Created with ❤️ by **\[Arunabha Mishra]**
 GitHub: [github.com/SlowHackkr](https://github.com/SlowHackkr)
