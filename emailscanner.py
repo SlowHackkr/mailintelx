@@ -151,7 +151,7 @@ def save_html_report(data, filename):
 if __name__ == "__main__":
     import sys
     if len(sys.argv) != 2:
-        print(f"{Fore.RED}Usage: python3 mailintelx.py <email>{Style.RESET_ALL}")
+        print(f"{Fore.RED}Usage: python3 emailscanner.py <email>{Style.RESET_ALL}")
         sys.exit(1)
 
     email = sys.argv[1]
